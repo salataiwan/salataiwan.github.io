@@ -1,0 +1,61 @@
+a{
+      color:#000;
+        text-decoration:none;
+}
+   
+a:visited {
+    color: #000;
+  }
+a:hover{
+    text-decoration:none;
+  font-weight: bold;
+  color: #000;
+
+}
+.li img{
+  width: 100px;
+  height: 100px;
+}
+
+ .li{
+margin-right:1vw;
+margin-left:1vw;
+float: left;
+line-height: 100px;
+padding-right: 1vw;
+padding-left: 2vw;
+list-style:none;
+color: #000;
+font-family: 標楷體;
+font-size: 2vw;
+}
+.ul{
+  padding-left: 0px;
+}
+.nav{
+  background: none;
+  width: 100vw;
+  height: 100px;
+  padding: 0px;
+  margin: 0px;
+  position: fixed;
+  top:0px;
+  z-index: 99;
+
+
+}
+
+ 
+
+ .top {
+            position: fixed;
+            right: 2.5%;
+            opacity: 0.6;
+          
+        }
+        
+        
+        
+        .top:hover {
+            opacity: 0.9;
+        }
